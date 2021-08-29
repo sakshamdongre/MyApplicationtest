@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FaceRecognition</string>
+    <string name="txt_help">Steps to use this application : \n\n1. Select an image from camera/gallery using the 2 options provided on the screen\n\n2. After selecting the image click on the upload button\n\n3. The next steps will be performed automatically on the server side\n\n4. You will receive the resultant image with a border around the faces detected in the image</string>
+    <string name="txt_app_name">Face Detection\n&amp;\nRecognition App</string>
+</resources>
